@@ -12,8 +12,7 @@ module.exports = {
             { text: '笔记',
               items: [
                 { text: 'Web前端', link: '/web/' },
-                { text: 'JS&Node.js', link: '/JavaScript/' },
-                { text: '后端服务', link: '/service/' },
+                { text: 'vuepress搭建', link: '/vuepress/' },
               ] 
             },
             { text: '关于', link: '/about/' },
