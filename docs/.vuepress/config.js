@@ -1,4 +1,5 @@
 module.exports = {
+	base: '/docs/.vuepress/dist',
 	title: '学习笔记记录',
 	description: '比我优秀的人都那么努力我还抱怨个屁，2020年开始学习记录笔记，生活即便如此也不能在懦弱的抱怨中逃避。',
 	head: [
